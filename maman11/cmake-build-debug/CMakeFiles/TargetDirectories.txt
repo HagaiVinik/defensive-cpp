@@ -1,0 +1,3 @@
+/home/hagaivinik/private/BSc-CS/cpp-course/maman11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hagaivinik/private/BSc-CS/cpp-course/maman11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hagaivinik/private/BSc-CS/cpp-course/maman11/cmake-build-debug/CMakeFiles/maman11.dir
